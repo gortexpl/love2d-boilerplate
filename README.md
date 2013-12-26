@@ -1,4 +1,4 @@
-lua-love2d-game
+love2d-boilerplate
 ===============
 
-basic start of a game
+basic start of a love2d game boilerplate for upcoming projects.
